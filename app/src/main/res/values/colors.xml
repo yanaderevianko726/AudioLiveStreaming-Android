@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#313234</color>
+    <color name="colorPrimaryDark">#313234</color>
+    <color name="colorAccent">#2fc6b8</color>
+
+    <!--player color-->
+    <color name="metadataBar">#e9910e</color>
+    <color name="playBar">#edb340</color>
+
+    <!--social tab color-->
+    <color name="tabIndicatorColor">#FFFFFF</color>
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+    <color name="tabTextColor">#000000</color>
+
+    <!--swipe down refresh animation color-->
+    <color name="orange">#1c86ee</color>
+    <color name="green">#0b62b7</color>
+    <color name="blue">#000099</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="black">#000000</color>
+
+    <!--others-->
+    <color name="white">#FFFFFF</color>
+
+</resources>

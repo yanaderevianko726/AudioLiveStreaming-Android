@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.partyfm.radio",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 19,
+        "versionName": "3.0.1",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.partyfm.radio",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

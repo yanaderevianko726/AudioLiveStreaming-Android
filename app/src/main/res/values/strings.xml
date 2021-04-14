@@ -1,0 +1,90 @@
+<resources>
+
+    <!--application name-->
+    <string name="app_name">PartyFM</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_home">Hjem</string>
+    <string name="drawer_social">Social</string>
+    <string name="drawer_rate">Vurder</string>
+    <string name="drawer_about">Om PartyFM</string>
+
+    <!--about information-->
+    <string name="app_version">Version 3.0.1</string>
+    <string name="app_email">partyfm@partyfm.dk</string>
+    <string name="app_copyright">Musikken er stillet til rådighed med tilladelse fra Koda &amp; Gramex.</string>
+    <string name="share_summary">Del med dine venner</string>
+    <string name="rate_summary">Bedøm denne app</string>
+    <string name="more_summary">Ønsk en sang?</string>
+    <string name="title_app_name">Program navn</string>
+    <string name="title_app_version">Build Version</string>
+    <string name="title_app_email">Email</string>
+    <string name="title_app_copyright">Copyright</string>
+    <string name="title_app_share">Del</string>
+    <string name="title_app_rate">Bedøm</string>
+    <string name="title_app_more">Mere</string>
+    <string name="nonetwork">Intet netværk</string>
+    <string name="casting_to_chromecast">Casting to ChromeCast ...</string>
+    <string name="ready_to_cast">Ready to Cast ...</string>
+    <string name="headsetunpuggled">Headset udtaget.</string>
+    <string name="unableto_connect">Kan ikke forbinde.</string>
+    <string name="exit_on_drawer">Afslut</string>
+    <string name="notification_channel_playback_name">Playback Controls</string>
+    <string name="notification_channel_playback_description">Playback controls, station logo and now playing info.</string>
+
+    <!--admob banner and interstitial id-->
+    <string name="admob_banner_id">ca-app-pub-3894747381242365~5767468981</string>
+    <string name="admob_interstitial_id">ca-app-pub-3894747381242365~5767468981</string>
+
+    <!--social network-->
+    <string name="social_tab1">Facebook</string>
+    <string name="social_tab2">Twitter</string>
+    <string name="facebook_url">https://www.facebook.com/PartyFM/ </string>
+    <string name="twitter_url">http://twitter.com/PartyFM </string>
+
+    <!-- play store application link i.e more apps -->
+    <string name="play_more_apps">https://facebook.com/PartyFM</string>
+
+    <!--share text-->
+    <string name="share">Share</string>
+    <string name="share_text">Hey jeg lytter til PartyFM. Hent deres app og lyt med her:</string>
+
+    <!--radio player-->
+    <string name="live_streaming">PartyFM</string>
+    <string name="connecting">Starter ...</string>
+    <string name="stopping">Stopping ...</string>
+    <string name="stopped">Stoped</string>
+    <string name="started">Radio Stream</string>
+    <string name="stopping_stream">Stopper afspilningen ...</string>
+    <string name="now_listening">Lige nu :</string>
+
+    <!--notification playing bar-->
+    <string name="notification_title">PartyFM</string>
+    <string name="notification_subtitle">Starter Stream ...</string>
+
+    <string name="media_route_menu_title">Play on</string>
+    <string name="app_id">96662439</string>
+    <string name="version">CastAudios: %1$s</string>
+    <string name="about_app">Om PartyFM</string>
+
+    <string name="station_name_low">Lav kvalitet</string>
+    <string name="station_name_high">Høj kvalitet</string>
+
+    <!--connection-->
+    <string name="alert_network">Du skal være forbundet til internet for at kunne afspille!</string>
+    <string name="error_retry">Kan ikke forbinde til serveren prøv igen senere!</string>
+    <string name="no_network">Kunne ikke forbinde til netværket!</string>
+    <string name="volume_low">Skru op for lyden for at lytte til radioen!</string>
+
+    <!--exit dialog-->
+    <string name="message">Hvad ønsker du at gøre?</string>
+    <string name="quit">Luk</string>
+    <string name="minimize">Minimer</string>
+    <string name="cancel">Annuler</string>
+
+    <!--others-->
+    <string name="drawer_open">Drawer Menu Opened</string>
+    <string name="drawer_close">Drawer Menu Closed</string>
+    <string name="receiver_id">C757C372</string>
+
+</resources>

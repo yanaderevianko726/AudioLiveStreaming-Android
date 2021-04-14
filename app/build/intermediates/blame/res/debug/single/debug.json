@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_icon_image.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/icon_image.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_play.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_play.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_notifiation_bar_collapse.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_notifiation_bar_collapse.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_tab_layout.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/tab_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_status_bg.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/status_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer_rate.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_drawer_rate.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_title.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_title.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_low_bit.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_low_bit.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_more.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_more.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_radio_logo.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-mdpi/radio_logo.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_btn_playback_play.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/btn_playback_play.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_fragment_social.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/fragment_social.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_btn_playback_pause.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/btn_playback_pause.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_prev.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_prev.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_email.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_email.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_soundstop.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_soundstop.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_notification_collapse.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/btn_notification_collapse.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_unmute_notification.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_unmute_notification.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/xml_application_preference.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/xml/application_preference.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_notification_exit.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_notification_exit.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer_home.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_drawer_home.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_rate.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_rate.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_mute.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_mute.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_btn_play.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_btn_play.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_btn_stop.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_btn_stop.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_unmute.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_unmute.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_fm_link.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_fm_link.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/menu_menu_other.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/menu/menu_other.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_mute_notification.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_mute_notification.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer_social.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_drawer_social.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_power_off.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_power_off.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_high_bit.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_high_bit.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_navigation_header.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/navigation_header.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_high_bit_active.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_high_bit_active.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_bg.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_bg.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_rounded_corner_layout.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/rounded_corner_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_copyright.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_copyright.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_sound.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_sound.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_share.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_btn_stop_focused.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_btn_stop_focused.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_fragment_radio_player.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/fragment_radio_player.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_lsv_item_about.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/lsv_item_about.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_pause.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_pause.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/menu_menu_drawer.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_next.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_next.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_btn_notification_collapse.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/btn_notification_collapse.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_low_bit_active.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_low_bit_active.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_icon.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_icon.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer_more.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_drawer_more.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_share.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_share.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable_ic_btn_play_focused.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable/ic_btn_play_focused.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer_about.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_drawer_about.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_appname.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_appname.png"
+    },
+    {
+        "merged": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_other_build.png.flat",
+        "source": "/Volumes/Data/Work/Denmark/PartyFM-Android/app/src/main/res/drawable-hdpi/ic_other_build.png"
+    }
+]
